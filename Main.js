@@ -1,1 +1,1 @@
-"Teros blockchain."
+"Teros blockchain. "
